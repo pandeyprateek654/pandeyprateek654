@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prateek
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Development projects.
+- 🌱 I’m currently working as an AI data engineer.
+- 💞️ I’m looking to collaborate on AI and Data Engineering projects.
 - 📫 How to reach me,...just drop a mail on prateekpandey654@gmail.com
 
 <!---
